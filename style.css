@@ -23,6 +23,11 @@ h1 {
     margin-bottom: 20px;
     color: #333;
 }
+h2 {
+    font-size: 1em;
+    margin-bottom: 20px;
+    color: #333;
+}
 
 form {
     display: flex;
@@ -62,11 +67,4 @@ button {
 
 button:hover {
     background-color: #0056b3;
-}
-
-#response {
-    margin-top: 20px;
-    font-weight: bold;
-    color: #333;
-    font-size: 1.2em;
 }
